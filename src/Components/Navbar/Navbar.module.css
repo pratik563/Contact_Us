@@ -1,0 +1,22 @@
+.navbar{
+  padding: 0 10px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: solid rgb(190, 190, 190) 1px;
+  border-radius: 5px;
+}
+
+.navbar a{
+  text-decoration: none;
+}
+
+.navbar ul{
+  display: flex;
+  gap: 24px;
+  list-style: none;
+  font-weight: 500;
+}
